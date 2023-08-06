@@ -14,6 +14,18 @@ public class Main {
         post.birthday.month = 6;
         post.birthday.year = 1999;
 
+        System.out.println(post.birthday);
+        System.out.println(post.name);
+        System.out.println(post.passport);
+        System.out.println(post.patronymic);
+        System.out.println(post.phone);
+        System.out.println(post.surname);
+        System.out.println(post.subscription);
+
+
+
+
+
 
     }
 }
